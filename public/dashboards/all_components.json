@@ -4349,42 +4349,36 @@
 		},
 		"1005": {
 			"id": 1005,
-			"index": "bf_place2",
+			"index": "school",
 			"map_config": [
 				{
-					"index": "school_withoutDIST",
+					"index": "school",
 					"paint": {
 						"circle-color": [
 							"match",
-							["get", "dist"],
-							"中山區",
+							["get", "type"],
+							"國小",
 							"#FFD700",
-							"士林區",
+							"國中",
 							"#00FF00",
-							"中正區",
+							"高中職",
 							"#FF4500",
-							"大同區",
+							"特教學校",
 							"#00CED1",
-							"松山區",
+							"市立大專校院",
 							"#FF69B4",
-							"大安區",
-							"#8A2BE2",
-							"萬華區",
-							"#32CD32",
-							"信義區",
-							"#FF6347",
-							"北投區",
-							"#40E0D0",
-							"內湖區",
-							"#FF8C00",
-							"南港區",
-							"#9932CC",
-							"文山區",
-							"#00FA9A",
 							"#fff"
 						]
 					},
 					"property": [
+						{
+							"key": "name",
+							"name": "學校名稱"
+						},
+						{
+							"key": "type",
+							"name": "學校分級"
+						},
 						{
 							"key": "dist",
 							"name": "行政區"
@@ -4392,23 +4386,11 @@
 						{
 							"key": "ADDR",
 							"name": "地址"
-						},
-						{
-							"key": "POS",
-							"name": "詳細位置"
-						},
-						{
-							"key": "certificate",
-							"name": "優良哺乳室認證"
-						},
-						{
-							"key": "wheelChair",
-							"name": "提供輪椅"
 						}
 					],
 					"type": "circle",
 					"size": "small",
-					"title": "哺乳室建置資料"
+					"title": "各級學校分布資料"
 				}, {
 					"index" : "school_avx",
 					"type": "new",
@@ -4421,19 +4403,19 @@
 					"#5a8965",
 					"#fbf3ac"
 				],
-				"types": ["DistrictChart", "ColumnChart" ,"BarChart", "DonutChart"],
+				"types": ["DistrictChart" ,"BarChart"],
 				"unit": "間"
 			},
-			"name": "學校建置資料",
+			"name": "學校分布資料",
 			"source": "data.taipei",
 			"time_from": "2023-06-02T00:00:00+08:00",
 			"time_to": null,
 			"update_freq": null,
 			"update_freq_unit": null,
-			"short_desc": "顯示全市依法應設置哺集乳室之公共場所",
-			"long_desc": "顯示全市依法應設置哺集乳室之公共場所，資料來源為台北衛生局，不定期更新。",
-			"use_case": "圖表所呈現的內容僅限於依法應設置哺集乳室之公共場所，若需更詳細的資料或特定範圍的更新案件資訊，可透過地圖模式進行查詢。",
-			"links": ["https://data.taipei/dataset/detail?id=5d1d34d8-1b81-4162-87b6-05e0896af958"],
+			"short_desc": "顯示全市各級學校分布位置",
+			"long_desc": "顯示全市各級學校分布位置，資料來源為台北教育局，不定期更新。",
+			"use_case": "圖表所呈現的內容僅限於臺北市各級學校，若需更詳細的資料或特定範圍的資訊，可透過地圖模式進行查詢。",
+			"links": ["https://data.taipei/dataset/detail?id=58b4f7b9-d0c5-4de8-aa7f-981fcb625e45"],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
