@@ -11,6 +11,6 @@ export const chartTypes = {
 	GuageChart: "量表圖",
 	RadarChart: "雷達圖",
 	HeatmapChart: "熱力圖",
-	DoubleBarChart: "性別比例圖",
-	GroupBarChart: "分組分項圖"
+	GroupBarChart:"橫向群組長條圖",
+	DoubleBarChart: "性別比例圖"
 };

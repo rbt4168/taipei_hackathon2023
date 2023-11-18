@@ -4081,9 +4081,9 @@
 		"1001": {
 			"id": 1001,
 			"index": "new_born1",
-			"history_data": true,
+			"history_data": false,
 			"chart_config": {
-				"color": ["#2f9ca1"],
+				"color": ["#dd38ec"],
 				"types": ["DistrictChart"],
 				"unit": "人",
 				"map_filter": [
@@ -4110,11 +4110,11 @@
 			"time_to": null,
 			"update_freq": 1,
 			"update_freq_unit": "year",
-			"short_desc": "顯示自2023年6月2日前的歷年新生兒人數統計",
-			"long_desc": "此圖表呈現自2023年6月2日前的歷年新生兒人數統計，資料來源為data.taipei，每一年鐘更新一次。",
+			"short_desc": "顯示各行政區新生兒人數統計",
+			"long_desc": "此圖表呈現各行政區新生兒人數統計，資料來源為data.taipei，每一年更新一次。",
 			"use_case": "該圖表以行政區劃分，提供各行政區新生兒人數統計。",
 			"links": [
-				"https://data.taipei/dataset/detail?id=c208dabd-2da0-4e6d-8dbd-a004b9782b0a"
+				"https://data.taipei/dataset/detail?id=64c8a3a0-3b9a-4f49-a13a-fb1eb2ffa4b1"
 			],
 			"tags": [],
 			"contributors": ["tuic"]
@@ -4145,17 +4145,17 @@
 			]
 			]
 			},
-			"name": "歷年新生兒人數",
+			"name": "歷年新生兒人數按男女別",
 			"source": "data.taipei",
-			"time_from": "2023-06-02T00:00:00+08:00",
+			"time_from": "1968-01-01T00:00:00+08:00",
 			"time_to": null,
 			"update_freq": 1,
 			"update_freq_unit": "year",
-			"short_desc": "顯示自2023年6月2日前的歷年新生兒人數統計",
-			"long_desc": "此圖表呈現自2023年6月2日前的歷年新生兒人數統計，資料來源為data.taipei，每一年鐘更新一次。",
-			"use_case": "該圖表以行政區劃分，提供各行政區新生兒人數統計。",
+			"short_desc": "顯示自1968年1月1日起，歷年新生兒人數統計",
+			"long_desc": "此圖表呈現自1968年1月1日起，歷年新生兒人數統計，資料來源為data.taipei，每一年更新一次。",
+			"use_case": "該圖表以性別劃分，提供男女新生兒人數統計。",
 			"links": [
-				"https://data.taipei/dataset/detail?id=c208dabd-2da0-4e6d-8dbd-a004b9782b0a"
+				"https://data.taipei/dataset/detail?id=b04d4310-2013-43bd-a3c2-caa64d097d33"
 			],
 			"tags": [],
 			"contributors": ["tuic"]
@@ -4171,9 +4171,29 @@
 							"match",
 							["get", "dist"],
 							"中山區",
+							"#FFD700",
+							"士林區",
+							"#00FF00",
+							"中正區",
+							"#FF4500",
+							"大同區",
+							"#00CED1",
+							"松山區",
+							"#FF69B4",
+							"大安區",
+							"#8A2BE2",
+							"萬華區",
+							"#32CD32",
+							"信義區",
+							"#FF6347",
+							"北投區",
+							"#40E0D0",
+							"內湖區",
 							"#FF8C00",
-							"LED燈",
-							"#FFE677",
+							"南港區",
+							"#9932CC",
+							"文山區",
+							"#00FA9A",
 							"#fff"
 						]
 					},
@@ -4198,7 +4218,7 @@
 			],
 			"chart_config": {
 				"types": ["DistrictChart", "ColumnChart"],
-				"color": ["#FFE677"],
+				"color": ["#FF869E"],
 				"unit": "間",
 				"map_filter": [
 					"dist",
@@ -4224,11 +4244,11 @@
 			"time_to": null,
 			"update_freq": null,
 			"update_freq_unit": null,
-			"short_desc": "顯示全市路燈的數量和點位",
-			"long_desc": "顯示全市路燈的數量和點位，資料來源為台北市工務局，不定期更新。",
-			"use_case": "顯示工務局路燈處掌握的公有路燈資訊，對於了解台北市路燈數量與點位情況提供了重要參考，但不包含私人設立的路燈或夜間照明。",
+			"short_desc": "顯示全市兒童醫療補助特約院所",
+			"long_desc": "顯示全市兒童醫療補助特約院所，資料來源為台北市衛生局，不定期更新。",
+			"use_case": "顯示全市兒童醫療補助特約院所，對於了解台北市兒童醫療補助特約院所位置提供了重要參考，提供六歲以下兒童就醫補助。",
 			"links": [
-				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
+				"https://data.taipei/dataset/detail?id=3cc250f5-9f5a-4670-ac7b-f13ecd316032"
 			],
 			"tags": [],
 			"contributors": ["tuic"]
@@ -4244,9 +4264,29 @@
 							"match",
 							["get", "dist"],
 							"中山區",
+							"#FFD700",
+							"士林區",
+							"#00FF00",
+							"中正區",
+							"#FF4500",
+							"大同區",
+							"#00CED1",
+							"松山區",
+							"#FF69B4",
+							"大安區",
+							"#8A2BE2",
+							"萬華區",
+							"#32CD32",
+							"信義區",
+							"#FF6347",
+							"北投區",
+							"#40E0D0",
+							"內湖區",
 							"#FF8C00",
-							"LED燈",
-							"#FFE677",
+							"南港區",
+							"#9932CC",
+							"文山區",
+							"#00FA9A",
 							"#fff"
 						]
 					},
@@ -4274,7 +4314,7 @@
 					],
 					"type": "circle",
 					"size": "small",
-					"title": "哺乳市建置資料"
+					"title": "哺乳室建置資料"
 				}, {
 					"index" : "clinic_avx",
 					"type": "new",
@@ -4285,23 +4325,21 @@
 				"color": [
 					"#67baca",
 					"#5a8965",
-					"#477653",
-					"#9b976c",
 					"#fbf3ac"
 				],
-				"types": ["GroupBarChart", "BarChart"],
-				"unit": "件"
+				"types": ["GroupBarChart"],
+				"unit": "間"
 			},
-			"name": "哺乳市建置資料",
+			"name": "哺乳室建置資料",
 			"source": "data.taipei",
 			"time_from": "2023-06-02T00:00:00+08:00",
 			"time_to": null,
-			"update_freq": 1,
-			"update_freq_unit": "day",
-			"short_desc": "顯示全市在冊都市更新案件數量及類型統計",
-			"long_desc": "顯示全市在冊都市更新案件數量及類型統計，資料來源為台北都市發展局，不定期更新。",
-			"use_case": "圖表所呈現的內容僅限於社會住宅類型及案件統計，若需更詳細的資料或特定範圍的更新案件資訊，可透過地圖模式進行查詢。",
-			"links": ["https://gis.uro.taipei/r_progress.aspx"],
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示全市依法應設置哺集乳室之公共場所",
+			"long_desc": "顯示全市依法應設置哺集乳室之公共場所，資料來源為台北衛生局，不定期更新。",
+			"use_case": "圖表所呈現的內容僅限於依法應設置哺集乳室之公共場所，若需更詳細的資料或特定範圍的更新案件資訊，可透過地圖模式進行查詢。",
+			"links": ["https://data.taipei/dataset/detail?id=5d1d34d8-1b81-4162-87b6-05e0896af958"],
 			"tags": [],
 			"contributors": ["tuic"]
 		},
@@ -4316,9 +4354,29 @@
 							"match",
 							["get", "dist"],
 							"中山區",
+							"#FFD700",
+							"士林區",
+							"#00FF00",
+							"中正區",
+							"#FF4500",
+							"大同區",
+							"#00CED1",
+							"松山區",
+							"#FF69B4",
+							"大安區",
+							"#8A2BE2",
+							"萬華區",
+							"#32CD32",
+							"信義區",
+							"#FF6347",
+							"北投區",
+							"#40E0D0",
+							"內湖區",
 							"#FF8C00",
-							"LED燈",
-							"#FFE677",
+							"南港區",
+							"#9932CC",
+							"文山區",
+							"#00FA9A",
 							"#fff"
 						]
 					},
