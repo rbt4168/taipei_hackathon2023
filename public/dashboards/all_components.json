@@ -4394,7 +4394,7 @@
 				}, {
 					"index" : "school_avx",
 					"type": "new",
-					"plotColor" : [ "#FF0000", "#FF0000" ]
+					"plotColor" : [ "#FFC408", "#FFC408" ]
 				}
 			],
 			"chart_config": {
