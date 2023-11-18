@@ -4214,6 +4214,10 @@
 					"type": "circle",
 					"size": "small",
 					"title": "診所"
+				}, {
+					"index" : "clinic_avx",
+					"type": "new",
+					"plotColor" : [ "#51A8DD", "#51A8DD" ]
 				}
 			],
 			"chart_config": {
@@ -4315,10 +4319,6 @@
 					"type": "circle",
 					"size": "small",
 					"title": "哺乳室建置資料"
-				}, {
-					"index" : "clinic_avx",
-					"type": "new",
-					"plotColor" : [ "#51A8DD", "#51A8DD" ]
 				}
 			],
 			"chart_config": {
