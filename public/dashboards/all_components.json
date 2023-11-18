@@ -4105,14 +4105,14 @@
 				]
 			},
 			"name": "各區新生兒人數",
-			"source": "A",
+			"source": "data.taipei",
 			"time_from": "2023-06-02T00:00:00+08:00",
 			"time_to": null,
-			"update_freq": 10,
-			"update_freq_unit": "minute",
-			"short_desc": "顯示當前全市道路施工的數量統計",
-			"long_desc": "顯示當前全市道路施工的數量統計，資料來源為工務局，每10分鐘更新。",
-			"use_case": "圖表僅呈現行政區的施工數量統計，若要得知更具體的施工位置資訊，可透過地圖模式查詢。",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示自2023年6月2日前的歷年新生兒人數統計",
+			"long_desc": "此圖表呈現自2023年6月2日前的歷年新生兒人數統計，資料來源為data.taipei，每一年鐘更新一次。",
+			"use_case": "該圖表以行政區劃分，提供各行政區新生兒人數統計。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=c208dabd-2da0-4e6d-8dbd-a004b9782b0a"
 			],
@@ -4124,36 +4124,36 @@
 			"index": "new_born2",
 			"history_data": true,
 			"chart_config": {
-				"color": ["#2f9ca1"],
-				"types": ["DoubleBarChart"],
-				"unit": "人",
-				"map_filter": [
-					"c_name",
-					[
-						"北投",
-						"士林",
-						"內湖",
-						"南港",
-						"松山",
-						"信義",
-						"中山",
-						"大同",
-						"中正",
-						"萬華",
-						"大安",
-						"文山"
-					]
-				]
+			"color": ["#2f9ca1"],
+			"types": ["DoubleBarChart"],
+			"unit": "人",
+			"map_filter": [
+			"c_name",
+			[
+			"北投",
+			"士林",
+			"內湖",
+			"南港",
+			"松山",
+			"信義",
+			"中山",
+			"大同",
+			"中正",
+			"萬華",
+			"大安",
+			"文山"
+			]
+			]
 			},
 			"name": "歷年新生兒人數",
-			"source": "A",
+			"source": "data.taipei",
 			"time_from": "2023-06-02T00:00:00+08:00",
 			"time_to": null,
-			"update_freq": 10,
-			"update_freq_unit": "minute",
-			"short_desc": "顯示當前全市道路施工的數量統計",
-			"long_desc": "顯示當前全市道路施工的數量統計，資料來源為工務局，每10分鐘更新。",
-			"use_case": "圖表僅呈現行政區的施工數量統計，若要得知更具體的施工位置資訊，可透過地圖模式查詢。",
+			"update_freq": 1,
+			"update_freq_unit": "year",
+			"short_desc": "顯示自2023年6月2日前的歷年新生兒人數統計",
+			"long_desc": "此圖表呈現自2023年6月2日前的歷年新生兒人數統計，資料來源為data.taipei，每一年鐘更新一次。",
+			"use_case": "該圖表以行政區劃分，提供各行政區新生兒人數統計。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=c208dabd-2da0-4e6d-8dbd-a004b9782b0a"
 			],
@@ -4230,6 +4230,74 @@
 			"links": [
 				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
 			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1004": {
+			"id": 1004,
+			"index": "bf_place",
+			"map_config": [
+				{
+					"index": "bf_room",
+					"paint": {
+						"circle-color": [
+							"match",
+							["get", "dist"],
+							"中山區",
+							"#FF8C00",
+							"LED燈",
+							"#FFE677",
+							"#fff"
+						]
+					},
+					"property": [
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "ADDR",
+							"name": "地址"
+						},
+						{
+							"key": "POS",
+							"name": "詳細位置"
+						},
+						{
+							"key": "certificate",
+							"name": "優良哺乳室認證"
+						},
+						{
+							"key": "wheelChair",
+							"name": "提供輪椅"
+						}
+					],
+					"type": "circle",
+					"size": "small",
+					"title": "哺乳市建置資料"
+				}
+			],
+			"chart_config": {
+				"color": [
+					"#67baca",
+					"#5a8965",
+					"#477653",
+					"#9b976c",
+					"#fbf3ac"
+				],
+				"types": ["GroupBarChart"],
+				"unit": "件"
+			},
+			"name": "哺乳市建置資料",
+			"source": "data.taipei",
+			"time_from": "2023-06-02T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 1,
+			"update_freq_unit": "day",
+			"short_desc": "顯示全市在冊都市更新案件數量及類型統計",
+			"long_desc": "顯示全市在冊都市更新案件數量及類型統計，資料來源為台北都市發展局，不定期更新。",
+			"use_case": "圖表所呈現的內容僅限於社會住宅類型及案件統計，若需更詳細的資料或特定範圍的更新案件資訊，可透過地圖模式進行查詢。",
+			"links": ["https://gis.uro.taipei/r_progress.aspx"],
 			"tags": [],
 			"contributors": ["tuic"]
 		}

@@ -8,44 +8,67 @@ const props = defineProps(['chart_config', 'activeChart', 'series', 'map_config'
 const mapStore = useMapStore();
 
 const chartOptions = ref({
-            chart: {
-              type: 'bar',
-              height: 430
-            },
-            plotOptions: {
-              bar: {
-                horizontal: true,
-                dataLabels: {
-                  position: 'top',
-                },
-              }
-            },
-            dataLabels: {
-              enabled: true,
-              offsetX: -6,
-              style: {
-                fontSize: '12px',
-                colors: ['#fff']
-              }
-            },
-            stroke: {
-              show: true,
-              width: 1,
-              colors: ['#fff']
-            },
-            tooltip: {
-              shared: true,
-              intersect: false
-            },
-            xaxis: {
-              categories: [2001, 2002, 2003, 2004, 2005, 2006, 2007],
-            },
-          }
-
-);
+	chart: {
+		offsetY: 15,
+		toolbar: {
+			show: false
+		},
+	},
+	plotOptions: {
+		bar: {
+			borderRadius: 2,
+			horizontal: true,
+			dataLabels: {
+				position: 'top',
+			},
+		}
+	},
+	dataLabels: {
+		offsetX: 20,
+		textAnchor: 'start',
+		formatter: function (value) {
+			return Math.abs(value);
+		},
+	},
+			
+	stroke: {
+		colors: ['#282a2c'],
+		show: true,
+		width: 0,
+	},
+	// The class "chart-tooltip" could be edited in /assets/styles/chartStyles.css
+	tooltip: {
+		custom: function ({ series, seriesIndex, dataPointIndex, w }) {
+			return '<div class="chart-tooltip">' +
+				'<h6>' + w.globals.labels[dataPointIndex] + '</h6>' +
+				'<span>' + Math.abs(series[seriesIndex][dataPointIndex]) + ` ${props.chart_config.unit}` + '</span>' +
+				'</div>';
+		},
+		followCursor: true,
+	},
+	xaxis: {
+		axisBorder: {
+			show: false,
+		},
+		axisTicks: {
+			show: false,
+		},
+		labels: {
+			show: false,
+		},
+		type: 'category',
+	},
+	yaxis: {
+		labels: {
+			formatter: function (value) {
+				return value.length > 7 ? value.slice(0, 6) + "..." : value;
+			},
+		},
+	},
+});
 
 const chartHeight = computed(() => {
-	return `${40 + props.series[0].data.length * 24}`;
+	return `${40 + props.series[0].data.length * 64}`;
 });
 
 const selectedIndex = ref(null);
