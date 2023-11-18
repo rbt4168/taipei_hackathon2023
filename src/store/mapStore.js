@@ -178,6 +178,8 @@ export const useMapStore = defineStore("map", {
 			});
 			if (map_config.type === "arc") {
 				this.AddArcMapLayer(map_config, data);
+			} else if (map_config.type === "new") {
+				this.AddNewMapLayer(map_config, data);
 			} else {
 				this.addMapLayer(map_config);
 			}
@@ -327,6 +329,70 @@ export const useMapStore = defineStore("map", {
 				);
 			}, delay);
 		},
+
+		AddNewMapLayer(map_config, data) {
+			const authStore = useAuthStore();
+			const lines = [...JSON.parse(JSON.stringify(data.features))];
+			console.log(lines);
+			this.loadingLayers.push("rendering");
+
+			const tb = (window.tb = new Threebox(
+				this.map,
+				this.map.getCanvas().getContext("webgl"), //get the context from the map canvas
+				{ defaultLights: true }
+			));
+
+			const delay = authStore.isMobileDevice ? 2000 : 500;
+
+			setTimeout(() => {
+				this.map.addLayer({
+					id: map_config.layerId,
+					type: "custom",
+					renderingMode: "3d",
+					onAdd: function () {
+						const paintSettings = map_config.paint
+							? map_config.paint
+							: { "arc-color": ["#ffffff"] };
+						
+						for (let line of lines) {
+							const gradientSteps = calculateGradientSteps(
+								map_config.plotColor ? map_config.plotColor[0] : "#D0104C", map_config.plotColor ? map_config.plotColor[1] : "#F8C3CD" , line.geometry.coordinates.length
+							);
+
+							let lineOptions = {
+								geometry: line.geometry.coordinates,
+								color: 0xffffff,
+								width: paintSettings["arc-width"]
+									? paintSettings["arc-width"]
+									: 2,
+								opacity:
+									paintSettings["arc-opacity"] ||
+									paintSettings["arc-opacity"] === 0
+										? paintSettings["arc-opacity"]
+										: 0.5,
+							};
+
+							let lineMesh = tb.line(lineOptions);
+							
+							lineMesh.geometry.setColors(gradientSteps);
+							lineMesh.material.vertexColors = true;
+
+							tb.add(lineMesh);
+						}
+					},
+					render: function () {
+						tb.update(); //update Threebox scene
+					},
+				});
+				this.currentLayers.push(map_config.layerId);
+				this.mapConfigs[map_config.layerId] = map_config;
+				this.currentVisibleLayers.push(map_config.layerId);
+				this.loadingLayers = this.loadingLayers.filter(
+					(el) => el !== map_config.layerId
+				);
+			}, delay);
+		},
+
 		//  5. Turn on the visibility for a exisiting map layer
 		turnOnMapLayerVisibility(mapLayerId) {
 			this.map.setLayoutProperty(mapLayerId, "visibility", "visible");
