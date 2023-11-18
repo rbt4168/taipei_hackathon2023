@@ -4275,6 +4275,10 @@
 					"type": "circle",
 					"size": "small",
 					"title": "哺乳市建置資料"
+				}, {
+					"index" : "clinic_avx",
+					"type": "new",
+					"plotColor" : [ "#51A8DD", "#51A8DD" ]
 				}
 			],
 			"chart_config": {
@@ -4327,6 +4331,10 @@
 					"type": "circle",
 					"size": "small",
 					"title": "公園"
+				}, {
+					"index" : "tree_avx",
+					"type": "new",
+					"plotColor" : [ "#24936E", "#24936E" ]
 				}
 			],
 			"chart_config": {
