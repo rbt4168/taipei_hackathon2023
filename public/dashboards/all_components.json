@@ -4347,6 +4347,96 @@
 			"tags": [],
 			"contributors": ["tuic"]
 		},
+		"1005": {
+			"id": 1005,
+			"index": "bf_place2",
+			"map_config": [
+				{
+					"index": "school_withoutDIST",
+					"paint": {
+						"circle-color": [
+							"match",
+							["get", "dist"],
+							"中山區",
+							"#FFD700",
+							"士林區",
+							"#00FF00",
+							"中正區",
+							"#FF4500",
+							"大同區",
+							"#00CED1",
+							"松山區",
+							"#FF69B4",
+							"大安區",
+							"#8A2BE2",
+							"萬華區",
+							"#32CD32",
+							"信義區",
+							"#FF6347",
+							"北投區",
+							"#40E0D0",
+							"內湖區",
+							"#FF8C00",
+							"南港區",
+							"#9932CC",
+							"文山區",
+							"#00FA9A",
+							"#fff"
+						]
+					},
+					"property": [
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "ADDR",
+							"name": "地址"
+						},
+						{
+							"key": "POS",
+							"name": "詳細位置"
+						},
+						{
+							"key": "certificate",
+							"name": "優良哺乳室認證"
+						},
+						{
+							"key": "wheelChair",
+							"name": "提供輪椅"
+						}
+					],
+					"type": "circle",
+					"size": "small",
+					"title": "哺乳室建置資料"
+				}, {
+					"index" : "school_avx",
+					"type": "new",
+					"plotColor" : [ "#FF0000", "#FF0000" ]
+				}
+			],
+			"chart_config": {
+				"color": [
+					"#67baca",
+					"#5a8965",
+					"#fbf3ac"
+				],
+				"types": ["DistrictChart", "ColumnChart" ,"BarChart", "DonutChart"],
+				"unit": "間"
+			},
+			"name": "學校建置資料",
+			"source": "data.taipei",
+			"time_from": "2023-06-02T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示全市依法應設置哺集乳室之公共場所",
+			"long_desc": "顯示全市依法應設置哺集乳室之公共場所，資料來源為台北衛生局，不定期更新。",
+			"use_case": "圖表所呈現的內容僅限於依法應設置哺集乳室之公共場所，若需更詳細的資料或特定範圍的更新案件資訊，可透過地圖模式進行查詢。",
+			"links": ["https://data.taipei/dataset/detail?id=5d1d34d8-1b81-4162-87b6-05e0896af958"],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
 		"1099": {
 			"id": 1099,
 			"index": "test",
