@@ -4319,6 +4319,10 @@
 					"type": "circle",
 					"size": "small",
 					"title": "哺乳室建置資料"
+				}, {
+					"index" : "room_avx",
+					"type": "new",
+					"plotColor" : [ "#FF0000", "#FF0000" ]
 				}
 			],
 			"chart_config": {
