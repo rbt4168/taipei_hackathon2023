@@ -73,7 +73,7 @@ const chartOptions = ref({
 });
 
 const chartHeight = computed(() => {
-	return `${40 + props.series[0].data.length * 24}`;
+	return `${40 + props.series[0].data.length * 14}`;
 });
 
 const selectedIndex = ref(null);

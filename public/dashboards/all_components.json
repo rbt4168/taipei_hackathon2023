@@ -4080,11 +4080,11 @@
 		},
 		"1001": {
 			"id": 1001,
-			"index": "new_born_count",
+			"index": "new_born1",
 			"history_data": true,
 			"chart_config": {
 				"color": ["#2f9ca1"],
-				"types": ["DistrictChart", "DoubleBarChart"],
+				"types": ["DistrictChart"],
 				"unit": "人",
 				"map_filter": [
 					"c_name",
@@ -4115,6 +4115,120 @@
 			"use_case": "圖表僅呈現行政區的施工數量統計，若要得知更具體的施工位置資訊，可透過地圖模式查詢。",
 			"links": [
 				"https://data.taipei/dataset/detail?id=c208dabd-2da0-4e6d-8dbd-a004b9782b0a"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1002": {
+			"id": 1002,
+			"index": "new_born2",
+			"history_data": true,
+			"chart_config": {
+				"color": ["#2f9ca1"],
+				"types": ["DoubleBarChart"],
+				"unit": "人",
+				"map_filter": [
+					"c_name",
+					[
+						"北投",
+						"士林",
+						"內湖",
+						"南港",
+						"松山",
+						"信義",
+						"中山",
+						"大同",
+						"中正",
+						"萬華",
+						"大安",
+						"文山"
+					]
+				]
+			},
+			"name": "歷年新生兒人數",
+			"source": "A",
+			"time_from": "2023-06-02T00:00:00+08:00",
+			"time_to": null,
+			"update_freq": 10,
+			"update_freq_unit": "minute",
+			"short_desc": "顯示當前全市道路施工的數量統計",
+			"long_desc": "顯示當前全市道路施工的數量統計，資料來源為工務局，每10分鐘更新。",
+			"use_case": "圖表僅呈現行政區的施工數量統計，若要得知更具體的施工位置資訊，可透過地圖模式查詢。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=c208dabd-2da0-4e6d-8dbd-a004b9782b0a"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1003": {
+			"id": 1003,
+			"index": "children_clinic",
+			"map_config": [
+				{
+					"index": "children_clinic",
+					"paint": {
+						"circle-color": [
+							"match",
+							["get", "dist"],
+							"中山區",
+							"#FF8C00",
+							"LED燈",
+							"#FFE677",
+							"#fff"
+						]
+					},
+					"property": [
+						{
+							"key": "dist",
+							"name": "行政區"
+						},
+						{
+							"key": "ADDR",
+							"name": "地址"
+						},
+						{
+							"key": "CLINIC_NAME",
+							"name": "診所名稱"
+						}
+					],
+					"type": "circle",
+					"size": "small",
+					"title": "診所"
+				}
+			],
+			"chart_config": {
+				"types": ["DistrictChart", "ColumnChart"],
+				"color": ["#FFE677"],
+				"unit": "間",
+				"map_filter": [
+					"dist",
+					[
+						"北投區",
+						"士林區",
+						"內湖區",
+						"南港區",
+						"松山區",
+						"信義區",
+						"中山區",
+						"大同區",
+						"中正區",
+						"萬華區",
+						"大安區",
+						"文山區"
+					]
+				]
+			},
+			"name": "兒童特約診所分佈",
+			"source": "data.taipei",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示全市路燈的數量和點位",
+			"long_desc": "顯示全市路燈的數量和點位，資料來源為台北市工務局，不定期更新。",
+			"use_case": "顯示工務局路燈處掌握的公有路燈資訊，對於了解台北市路燈數量與點位情況提供了重要參考，但不包含私人設立的路燈或夜間照明。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
 			],
 			"tags": [],
 			"contributors": ["tuic"]

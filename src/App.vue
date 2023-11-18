@@ -17,7 +17,7 @@ import NavBar from './components/NavBar.vue';
 import SideBar from './components/SideBar.vue';
 import SettingsBar from './components/SettingsBar.vue';
 import NotificationBar from './components/dialogs/NotificationBar.vue';
-import InitialWarning from './components/dialogs/InitialWarning.vue';
+// import InitialWarning from './components/dialogs/InitialWarning.vue';
 
 const authStore = useAuthStore();
 const dialogStore = useDialogStore();
@@ -35,10 +35,10 @@ onBeforeMount(() => {
 	});
 });
 onMounted(() => {
-	const showInitialWarning = localStorage.getItem('initialWarning');
-	if (!showInitialWarning) {
-		dialogStore.showDialog('initialWarning');
-	}
+	// const showInitialWarning = localStorage.getItem('initialWarning');
+	// if (!showInitialWarning) {
+	// 	dialogStore.showDialog('initialWarning');
+	// }
 });
 </script>
 
@@ -53,7 +53,7 @@ onMounted(() => {
 				<RouterView></RouterView>
 			</div>
 		</div>
-		<InitialWarning />
+		<!-- <InitialWarning /> -->
 	</div>
 </template>
 
