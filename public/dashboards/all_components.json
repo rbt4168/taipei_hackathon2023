@@ -4285,7 +4285,7 @@
 					"#9b976c",
 					"#fbf3ac"
 				],
-				"types": ["GroupBarChart"],
+				"types": ["GroupBarChart", "BarChart"],
 				"unit": "件"
 			},
 			"name": "哺乳市建置資料",
@@ -4298,6 +4298,54 @@
 			"long_desc": "顯示全市在冊都市更新案件數量及類型統計，資料來源為台北都市發展局，不定期更新。",
 			"use_case": "圖表所呈現的內容僅限於社會住宅類型及案件統計，若需更詳細的資料或特定範圍的更新案件資訊，可透過地圖模式進行查詢。",
 			"links": ["https://gis.uro.taipei/r_progress.aspx"],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1099": {
+			"id": 1099,
+			"index": "test",
+			"map_config": [
+				{
+					"index": "park_avg",
+					"paint": {
+						"circle-color": [
+							"match",
+							["get", "dist"],
+							"中山區",
+							"#FF8C00",
+							"LED燈",
+							"#FFE677",
+							"#fff"
+						]
+					},
+					"property": [
+						{
+							"key": "公園",
+							"name": "公園"
+						}
+					],
+					"type": "circle",
+					"size": "small",
+					"title": "公園"
+				}
+			],
+			"chart_config": {
+				"types": ["DistrictChart", "ColumnChart"],
+				"color": ["#FFE677"],
+				"unit": "座"
+			},
+			"name": "兒童公園分佈",
+			"source": "data.taipei",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "顯示全市路燈的數量和點位",
+			"long_desc": "顯示全市路燈的數量和點位，資料來源為台北市工務局，不定期更新。",
+			"use_case": "顯示工務局路燈處掌握的公有路燈資訊，對於了解台北市路燈數量與點位情況提供了重要參考，但不包含私人設立的路燈或夜間照明。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
+			],
 			"tags": [],
 			"contributors": ["tuic"]
 		}
