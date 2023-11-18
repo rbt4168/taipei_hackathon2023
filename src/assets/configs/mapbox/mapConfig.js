@@ -321,6 +321,48 @@ export const maplayerCommonLayout = {
 			1.4,
 		],
 	},
+	"symbol-park": {
+		"icon-image": "park",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.7,
+			14,
+			1.1,
+			22,
+			1.4,
+		],
+	},
+	"symbol-clinic": {
+		"icon-image": "clinic",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.7,
+			14,
+			1.1,
+			22,
+			1.4,
+		],
+	},
+	"symbol-milk_bottle": {
+		"icon-image": "milk_bottle",
+		"icon-size": [
+			"interpolate",
+			["linear"],
+			["zoom"],
+			11.99,
+			0.7,
+			14,
+			1.1,
+			22,
+			1.4,
+		],
+	},
 	"symbol-metro-density": {
 		"icon-image": "metro",
 		"icon-size": [

@@ -4166,37 +4166,6 @@
 			"map_config": [
 				{
 					"index": "children_clinic",
-					"paint": {
-						"circle-color": [
-							"match",
-							["get", "dist"],
-							"中山區",
-							"#FFD700",
-							"士林區",
-							"#00FF00",
-							"中正區",
-							"#FF4500",
-							"大同區",
-							"#00CED1",
-							"松山區",
-							"#FF69B4",
-							"大安區",
-							"#8A2BE2",
-							"萬華區",
-							"#32CD32",
-							"信義區",
-							"#FF6347",
-							"北投區",
-							"#40E0D0",
-							"內湖區",
-							"#FF8C00",
-							"南港區",
-							"#9932CC",
-							"文山區",
-							"#00FA9A",
-							"#fff"
-						]
-					},
 					"property": [
 						{
 							"key": "dist",
@@ -4211,13 +4180,13 @@
 							"name": "診所名稱"
 						}
 					],
-					"type": "circle",
-					"size": "small",
+					"type": "symbol",
+					"icon": "clinic",
 					"title": "診所"
 				}, {
 					"index" : "clinic_avx",
 					"type": "new",
-					"plotColor" : [ "#51A8DD", "#51A8DD" ]
+					"plotColor" : [ "#FF869E", "#FF869E" ]
 				}
 			],
 			"chart_config": {
@@ -4263,37 +4232,6 @@
 			"map_config": [
 				{
 					"index": "bf_room",
-					"paint": {
-						"circle-color": [
-							"match",
-							["get", "dist"],
-							"中山區",
-							"#FFD700",
-							"士林區",
-							"#00FF00",
-							"中正區",
-							"#FF4500",
-							"大同區",
-							"#00CED1",
-							"松山區",
-							"#FF69B4",
-							"大安區",
-							"#8A2BE2",
-							"萬華區",
-							"#32CD32",
-							"信義區",
-							"#FF6347",
-							"北投區",
-							"#40E0D0",
-							"內湖區",
-							"#FF8C00",
-							"南港區",
-							"#9932CC",
-							"文山區",
-							"#00FA9A",
-							"#fff"
-						]
-					},
 					"property": [
 						{
 							"key": "dist",
@@ -4316,8 +4254,8 @@
 							"name": "提供輪椅"
 						}
 					],
-					"type": "circle",
-					"size": "small",
+					"type": "symbol",
+					"icon": "milk_bottle",
 					"title": "哺乳室建置資料"
 				}, {
 					"index" : "room_avx",
@@ -4389,12 +4327,12 @@
 						}
 					],
 					"type": "circle",
-					"size": "small",
+					"size": "big",
 					"title": "各級學校分布資料"
 				}, {
 					"index" : "school_avx",
 					"type": "new",
-					"plotColor" : [ "#FFC408", "#FFC408" ]
+					"plotColor" : [ "#67baca", "#67baca" ]
 				}
 			],
 			"chart_config": {
@@ -4425,50 +4363,20 @@
 			"map_config": [
 				{
 					"index": "park_avg",
-					"paint": {
-						"circle-color": [
-							"match",
-							["get", "dist"],
-							"中山區",
-							"#FFD700",
-							"士林區",
-							"#00FF00",
-							"中正區",
-							"#FF4500",
-							"大同區",
-							"#00CED1",
-							"松山區",
-							"#FF69B4",
-							"大安區",
-							"#8A2BE2",
-							"萬華區",
-							"#32CD32",
-							"信義區",
-							"#FF6347",
-							"北投區",
-							"#40E0D0",
-							"內湖區",
-							"#FF8C00",
-							"南港區",
-							"#9932CC",
-							"文山區",
-							"#00FA9A",
-							"#fff"
-						]
-					},
+					
 					"property": [
 						{
 							"key": "公園",
 							"name": "公園"
 						}
 					],
-					"type": "circle",
-					"size": "small",
+					"type": "symbol",
+					"icon": "park",
 					"title": "公園"
 				}, {
 					"index" : "tree_avx",
 					"type": "new",
-					"plotColor" : [ "#24936E", "#24936E" ]
+					"plotColor" : [ "#FFE677", "#FFE677" ]
 				}
 			],
 			"chart_config": {
