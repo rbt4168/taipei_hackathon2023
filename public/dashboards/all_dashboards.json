@@ -49,6 +49,12 @@
 			"icon": "bug_report"
 		},
 		{
+			"name": "新開發組件",
+			"index": "new_develope",
+			"components": ["1001"],
+			"icon": "favorite"
+		},
+		{
 			"name": "收藏組件",
 			"index": "favorites",
 			"components": ["108", "22", "79", "60", "107"],

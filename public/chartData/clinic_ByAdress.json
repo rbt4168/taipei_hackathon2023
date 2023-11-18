@@ -1,0 +1,4393 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳彥銘耳鼻喉科診所",
+				"ADDR": "100臺北市士林區士東路12號之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.526664,
+					25.1117425
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "蘇慧卿診所",
+				"ADDR": "100臺北市士林區大南路274號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51971839999999,
+					25.0887571
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "貝爾診所",
+				"ADDR": "100臺北市士林區中山北路七段82巷9號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53243619999999,
+					25.1213853
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "佩佩婦幼診所",
+				"ADDR": "100臺北市士林區中山北路六段182號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52527219999999,
+					25.107545899999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "張虔熙小兒科診所",
+				"ADDR": "100臺北市士林區中山北路六段282號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52562979999999,
+					25.110103499999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "上品小兒科診所",
+				"ADDR": "100臺北市士林區中正路219號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5263715,
+					25.0952724
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "士林小兒科診所",
+				"ADDR": "100臺北市士林區中正路249號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5253681,
+					25.0950678
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "小禾馨士林小兒專科診所",
+				"ADDR": "100臺北市士林區中正路289號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52391619999999,
+					25.0946875
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "耀明診所",
+				"ADDR": "100臺北市士林區中正路322號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.522596,
+					25.0947379
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "新光醫療財團法人新光吳火獅紀念醫院",
+				"ADDR": "100臺北市士林區文昌路95號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52092689999999,
+					25.096418099999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "士林同仁中醫診所",
+				"ADDR": "100臺北市士林區文林路402號（實際使用：1、2樓）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52508478552437,
+					25.093852364745192
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "存德小兒科診所",
+				"ADDR": "100臺北市士林區文林路460號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5246202,
+					25.0956427
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "榮清耳鼻喉科診所",
+				"ADDR": "100臺北市士林區文林路483號（1樓）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52423599999999,
+					25.096107999999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "邱世昌診所",
+				"ADDR": "100臺北市士林區文林路718號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5207755,
+					25.102323199999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "蕭雨青小兒科診所",
+				"ADDR": "100臺北市士林區延平北路5段292號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5097826,
+					25.0856826
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "天母品恆復健科診所",
+				"ADDR": "100臺北市士林區忠誠路1段135、137、157號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52976799999999,
+					25.106123
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "李世澤小兒科內科診所",
+				"ADDR": "100臺北市士林區社子街67號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5067012,
+					25.087498399999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "科安診所",
+				"ADDR": "100臺北市士林區社中街116號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51042059999999,
+					25.0898456
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "和鎂皮膚科診所",
+				"ADDR": "100臺北市士林區社中街362號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50411949999999,
+					25.0925188
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "和謙耳鼻喉科診所",
+				"ADDR": "100臺北市士林區社中街362號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50408089999999,
+					25.0924856
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "粱耳鼻喉科診所",
+				"ADDR": "100臺北市士林區社正路12-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.509311,
+					25.088535699999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "周怡宏小兒科診所",
+				"ADDR": "100臺北市士林區基河路200號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52171999999999,
+					25.090329
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "昕新診所",
+				"ADDR": "100臺北市士林區基河路250號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52080839999999,
+					25.091696499999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "何小兒科診所",
+				"ADDR": "100臺北市士林區福港街176號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5176786,
+					25.0866141
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "嘉櫻小兒科診所",
+				"ADDR": "100臺北市士林區德行西路119號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52055589999999,
+					25.1039362
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "樹爸爸親子診所",
+				"ADDR": "100臺北市士林區德行東路286號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53601189999999,
+					25.1099779
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "愛林診所",
+				"ADDR": "100臺北市士林區承德路4段222號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5214786,
+					25.0885693
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院陽明院區士林門診部",
+				"ADDR": "100臺北市士林區中正路439號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.519565,
+					25.092754799999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院陽明院區",
+				"ADDR": "100臺北市士林區雨聲街105號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5319457,
+					25.105081499999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "忠誠聯合診所",
+				"ADDR": "100臺北市士林區忠誠路二段50巷35號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52907859999999,
+					25.110809
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "國立臺灣大學醫學院附設醫院兒童醫院",
+				"ADDR": "100臺北市中正區中山南路8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51858299999999,
+					25.0443271
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "國立臺灣大學醫學院附設醫院",
+				"ADDR": "100臺北市中正區中山南路7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51919869999999,
+					25.040978499999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "醫療財團法人徐元智先生醫藥基金會遠東聯合診所",
+				"ADDR": "100臺北市中正區永綏街8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.511026,
+					25.042990999999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "劉瑞聰診所",
+				"ADDR": "100臺北市中正區汀州路1段194號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5091889,
+					25.0280961
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "朱小兒科診所",
+				"ADDR": "100臺北市中正區汀州路2段220號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5240207,
+					25.022064999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "和眾綜合診所",
+				"ADDR": "100臺北市中正區忠孝西路1段6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51797169999999,
+					25.0457942
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "天心中醫診所",
+				"ADDR": "100臺北市中正區武昌街1段33號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.512017,
+					25.044235
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "嘉貝牙醫診所",
+				"ADDR": "100臺北市中正區信義路2段257號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5314918,
+					25.0339158
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "池振坤耳鼻喉科診所",
+				"ADDR": "100臺北市中正區南昌路1段88號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.517409,
+					25.030793
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設中正門診部",
+				"ADDR": "100臺北市中正區牯嶺街24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5159216,
+					25.0304151
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "小禾馨懷寧小兒專科診所",
+				"ADDR": "100臺北市中正區重慶南路一段99號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51337099999999,
+					25.043041
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "周正成小兒科診所",
+				"ADDR": "100臺北市中正區徐州路24號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52337259999999,
+					25.040606399999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "郵政醫院（委託中英醫療社團法人經營）",
+				"ADDR": "100臺北市中正區福州街14號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5188268,
+					25.028594299999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "同安中醫診所",
+				"ADDR": "100臺北市中正區同安街41號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52248069999999,
+					25.024799899999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院和平院區",
+				"ADDR": "100臺北市中正區中華路2段33號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5070252,
+					25.0354322
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院婦幼院區",
+				"ADDR": "100臺北市中正區福州街12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51920519999999,
+					25.0289778
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "好甘心診所",
+				"ADDR": "100臺北市中正區公園路30號9樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5167927,
+					25.0444064
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "醫療財團法人好心肝基金會好心肝診所",
+				"ADDR": "100臺北市中正區公園路30號2樓-2、8F-1、8F-2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51678946606732,
+					25.044402248238587
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "寧夏診所",
+				"ADDR": "103臺北市大同區民生西路236號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5144404,
+					25.056876499999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黃博裕小兒科診所",
+				"ADDR": "103臺北市大同區赤峰街49巷21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5203095,
+					25.055773199999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設大同門診部",
+				"ADDR": "103臺北市大同區昌吉街52號1至2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5163235,
+					25.0657098
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "羅源彰診所",
+				"ADDR": "103臺北市大同區長安西路137號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.515086,
+					25.0514479
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "趙黎海診所",
+				"ADDR": "103臺北市大同區哈密街67號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51525459999999,
+					25.0731051
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "張漢權內科診所",
+				"ADDR": "103臺北市大同區重慶北路一段92號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5139226,
+					25.052672899999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "羅志弘診所",
+				"ADDR": "103臺北市大同區重慶北路三段115號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5139488,
+					25.0674448
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "余自興眼科診所",
+				"ADDR": "103臺北市大同區重慶北路三段213號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5140024,
+					25.070286
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "建順診所",
+				"ADDR": "103臺北市大同區甘州街51號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5128695,
+					25.059653599999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "施小兒科診所",
+				"ADDR": "103臺北市大同區重慶北路三段28號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51343929999999,
+					25.0651103
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "新林牙醫診所",
+				"ADDR": "103臺北市大同區哈密街113號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51408409999999,
+					25.0730312
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院中興院區",
+				"ADDR": "103臺北市大同區鄭州路145號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50932089999999,
+					25.0509696
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "中崙聯合診所",
+				"ADDR": "104臺北市中山區八德路二段303號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54257399999999,
+					25.047355
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "台灣銀行基督長老教會馬偕醫療財團法人馬偕兒童醫院",
+				"ADDR": "104臺北市中山區中山北路2段92號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5223977,
+					25.0588457
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "台灣銀行基督長老教會馬偕醫療財團法人馬偕紀念醫院",
+				"ADDR": "104臺北市中山區中山北路2段92號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5223977,
+					25.0588457
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "周賢章耳鼻喉科診所",
+				"ADDR": "104臺北市中山區天祥路26號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52093049999999,
+					25.0612437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "愛鄰診所",
+				"ADDR": "104臺北市中山區北安路520-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54611,
+					25.079673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "北安聯合診所",
+				"ADDR": "104臺北市中山區北安路569之1號2樓．之2、3、4號1、2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5482979997795,
+					25.0810366727815
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "迪昇牙醫診所",
+				"ADDR": "104臺北市中山區北安路595巷20弄3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54761719999999,
+					25.081933
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "柏泉內科小兒科診所",
+				"ADDR": "104臺北市中山區北安路595巷20弄5號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5476181,
+					25.081854699999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "大直診所",
+				"ADDR": "104臺北市中山區北安路595巷2弄2、6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54832609917526,
+					25.08197752128944
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "惟廉診所",
+				"ADDR": "104臺北市中山區北安路595巷1號B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5485803,
+					25.082161799999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "固廉診所",
+				"ADDR": "104臺北市中山區北安路613號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.548768,
+					25.082687
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "高固廉診所",
+				"ADDR": "104臺北市中山區北安路613號1樓, 595巷1號B1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54876799977434,
+					25.082696672649547
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "莊宇龍診所",
+				"ADDR": "104臺北市中山區北安路637號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.549022,
+					25.08373
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "雙連婦產科小兒科診所",
+				"ADDR": "104臺北市中山區民生西路30號4樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52180999999999,
+					25.0576741
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳炯輝診所",
+				"ADDR": "104臺北市中山區民生東路2段103號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53128799999999,
+					25.0581019
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "鄭志誠小兒科診所",
+				"ADDR": "104臺北市中山區民生東路一段8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52333229999999,
+					25.0578291
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "民生承安診所",
+				"ADDR": "104臺北市中山區民生東路三段90號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54349909999999,
+					25.057385699999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "興安診所",
+				"ADDR": "104臺北市中山區民生東路三段90號2樓, 2樓之3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54349909999999,
+					25.057385699999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "杏慈診所",
+				"ADDR": "104臺北市中山區民權東路2段152巷2之1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5348879,
+					25.060776099999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "慶恩小兒科診所",
+				"ADDR": "104臺北市中山區吉林路117號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5302883,
+					25.0567407
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "光華家醫科診所",
+				"ADDR": "104臺北市中山區松江路21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5331525,
+					25.0467876
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設中山門診部",
+				"ADDR": "104臺北市中山區松江路367號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5335283,
+					25.0644252
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "協和婦女醫院",
+				"ADDR": "104臺北市中山區松江路85巷5號,93巷6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5339092,
+					25.0502613
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "四季和安婦幼診所",
+				"ADDR": "104臺北市中山區林森北路452號地下1樓、458號及458號3樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52543149917655,
+					25.06073401793877
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "晴光診所",
+				"ADDR": "104臺北市中山區林森北路556號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.52549859999999,
+					25.0642894
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "蔡國賢耳鼻喉科診所",
+				"ADDR": "104臺北市中山區長安東路二段108-2號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.535331,
+					25.048168
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "木生婦產科診所",
+				"ADDR": "104臺北市中山區長安東路二段90號1-4樓、88號4樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53453034665908,
+					25.048303632805226
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "長春眼科聯合診所",
+				"ADDR": "104臺北市中山區建國北路二段66號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5364688,
+					25.0545099
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "晉宏診所",
+				"ADDR": "104臺北市中山區復興北路514巷56號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54168569999999,
+					25.0658617
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "樂群診所",
+				"ADDR": "104臺北市中山區樂群二路210之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55927709999999,
+					25.0795019
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "寧康聯合診所",
+				"ADDR": "104臺北市中山區龍江路209巷6-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54092469999999,
+					25.056486699999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "正恩耳鼻喉科診所",
+				"ADDR": "104臺北市中山區錦州街321號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53860999999999,
+					25.0603445
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "龍江小兒科診所",
+				"ADDR": "104臺北市中山區龍江路181-1號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54075329999999,
+					25.055201099999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "榮星診所",
+				"ADDR": "104臺北市中山區龍江路272號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54063169999999,
+					25.0606057
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "德容聯合診所",
+				"ADDR": "104臺北市中山區吉林路197號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53038459999999,
+					25.059889
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院林森院區",
+				"ADDR": "104臺北市中山區林森北路530號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5254379,
+					25.0635223
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "基督復臨安息日會醫療財團法人臺安醫院",
+				"ADDR": "105臺北市松山區八德路2段424、426號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54748427801063,
+					25.047679879286083
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "康瑞耳鼻喉科診所",
+				"ADDR": "105臺北市松山區八德路3段154號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55495189999999,
+					25.0479657
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設松山門診部",
+				"ADDR": "105臺北市松山區八德路4段694號1、2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5772514,
+					25.049803999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "駿昂耳鼻喉科診所",
+				"ADDR": "105臺北市松山區八德路二段395號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54643189999999,
+					25.048372699999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "安美診所",
+				"ADDR": "105臺北市松山區八德路二段400號3樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54653359999999,
+					25.048011
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳大昕耳鼻喉科診所",
+				"ADDR": "105臺北市松山區八德路四段100號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5608082,
+					25.048401199999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "洪小兒科診所",
+				"ADDR": "105臺北市松山區市民大道五段165號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5646853,
+					25.048088699999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "詹前俊小兒科診所",
+				"ADDR": "105臺北市松山區民生東路5段105號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56003831972924,
+					25.058736255830397
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "劉內兒科診所",
+				"ADDR": "105臺北市松山區民生東路五段148號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5621561,
+					25.058491999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "謝耳鼻喉科診所",
+				"ADDR": "105臺北市松山區民生東路五段148號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56214999999999,
+					25.0584667
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黎博彥診所",
+				"ADDR": "105臺北市松山區民生東路五段230號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.565715,
+					25.058809999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "大家好診所",
+				"ADDR": "105臺北市松山區民生東路四段80巷11弄2號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55310089999999,
+					25.0565565
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "馮子強診所",
+				"ADDR": "105臺北市松山區民權東路三段160巷7號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54800429999999,
+					25.0610496
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "松原復健診所",
+				"ADDR": "105臺北市松山區光復北路206號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55551729999999,
+					25.0551967
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "博仁綜合醫院",
+				"ADDR": "105臺北市松山區光復北路66號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55756029999999,
+					25.0499703
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "康健診所",
+				"ADDR": "105臺北市松山區延吉街11號2樓、40號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5537176,
+					25.046636
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳炳堅內科診所",
+				"ADDR": "105臺北市松山區延壽街327號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.560329,
+					25.056825999999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "江崇萍小兒科診所",
+				"ADDR": "105臺北市松山區南京東路五段251巷24弄27號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5643544,
+					25.052338799999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "榮恩耳鼻喉科小兒科聯合診所",
+				"ADDR": "105臺北市松山區南京東路五段258號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56644969999999,
+					25.0511463
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "林忠志診所",
+				"ADDR": "105臺北市松山區南京東路五段291巷20弄3-3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.565833,
+					25.0525083
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "親親家庭診所",
+				"ADDR": "105臺北市松山區南京東路五段347號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5678226,
+					25.0515729
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "三軍總醫院松山分院附設民眾診療服務處",
+				"ADDR": "105臺北市松山區健康路131號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55762709999999,
+					25.0543001
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "安兒康小兒專科診所",
+				"ADDR": "105臺北市松山區敦化北路116號、118號、118號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54856369999999,
+					25.0537434
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "佑家診所",
+				"ADDR": "105臺北市松山區八德路三段233號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55713639999999,
+					25.048247099999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "閎新耳鼻喉科皮膚科聯合診所",
+				"ADDR": "105臺北市松山區八德路三段20-2號1F"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55109739999999,
+					25.048099999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "長庚醫療財團法人臺北長庚紀念醫院",
+				"ADDR": "105臺北市松山區敦化北路199號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5496349,
+					25.055626399999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "車參薇小兒科診所",
+				"ADDR": "105臺北市松山區八德路三段195號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55623969999999,
+					25.0481423
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "劉建宏診所",
+				"ADDR": "106臺北市大安區大安路二段139號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54617719999999,
+					25.02855
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "中山醫療社團法人中山醫院",
+				"ADDR": "106臺北市大安區仁愛路4段112巷11號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5499289,
+					25.036514999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "國泰醫療財團法人國泰綜合醫院",
+				"ADDR": "106臺北市大安區仁愛路4段280號，266巷6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55372779999999,
+					25.0368495
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "宏恩醫療財團法人宏恩綜合醫院",
+				"ADDR": "106臺北市大安區仁愛路4段71巷1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5466881,
+					25.038191599999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "松德診所",
+				"ADDR": "106臺北市大安區四維路170巷16號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5473499,
+					25.0281223
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黃清浩耳鼻喉科診所",
+				"ADDR": "106臺北市大安區光復南路430號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55736669999999,
+					25.036182
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "許靜瑛小兒科診所",
+				"ADDR": "106臺北市大安區和平東路一段230號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5323691,
+					25.0260775
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": " 啟誠聯合診所",
+				"ADDR": "106臺北市大安區和平東路二段120號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5429344,
+					25.0247302
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "景德耳鼻喉科診所",
+				"ADDR": "106臺北市大安區和平東路二段191號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54217039999999,
+					25.0252686
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "健華診所",
+				"ADDR": "106臺北市大安區和平東路二段255號,257號4樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5438389,
+					25.0250626
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "施崇仁耳鼻喉科診所",
+				"ADDR": "106臺北市大安區和平東路二段311巷13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54523809999999,
+					25.0251871
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "全家聯合診所",
+				"ADDR": "106臺北市大安區和平東路二段353號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54619129999999,
+					25.0249114
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "安吉耳鼻喉科診所",
+				"ADDR": "106臺北市大安區和平東路三段226號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55448009999999,
+					25.0223506
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "大安黃耳鼻喉科診所",
+				"ADDR": "106臺北市大安區和平東路三段234號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5547702,
+					25.0219864
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "邱醫師診所",
+				"ADDR": "106臺北市大安區和平東路三段288號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55614329999999,
+					25.0208037
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "那明珠診所",
+				"ADDR": "106臺北市大安區和平東路三段8號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5470132,
+					25.0244204
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "延吉診所",
+				"ADDR": "106臺北市大安區延吉街241巷2弄5號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5559533,
+					25.035738199999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "林繼國診所",
+				"ADDR": "106臺北市大安區忠孝東路三段217巷1弄12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5391212,
+					25.0424121
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黃文香兒科診所",
+				"ADDR": "106臺北市大安區忠孝東路四段250號2樓之1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5541777,
+					25.041170599999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "杏誠復健科診所",
+				"ADDR": "106臺北市大安區信義路四段173號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5504265,
+					25.0334149
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "夏爾診所",
+				"ADDR": "106臺北市大安區信義路四段265巷54號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.555769,
+					25.0351741
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黃禎祥診所",
+				"ADDR": "106臺北市大安區師大路71號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5286041,
+					25.023694499999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "永誠復健科診所",
+				"ADDR": "106臺北市大安區復興南路2段236號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54319579999999,
+					25.025239499999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "頂好林耳鼻喉科診所",
+				"ADDR": "106臺北市大安區敦化南路一段160巷50號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5469253,
+					25.043516999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "禾馨新生婦幼診所",
+				"ADDR": "106臺北市大安區新生南路三段2號1~3樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53454699999999,
+					25.0258209
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "小禾馨小兒專科診所",
+				"ADDR": "106臺北市大安區新生南路三段4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5346142,
+					25.025631999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "博安家庭醫學科診所",
+				"ADDR": "106臺北市大安區麗水街3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5291,
+					25.0324319
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "安禾眼科診所",
+				"ADDR": "106台北市大安區信義路四段151號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54986609999999,
+					25.0334437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "珍世明眼科診所",
+				"ADDR": "106臺北市大安區信義路4段98號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54795,
+					25.033054
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "慈民骨科診所",
+				"ADDR": "106臺北市大安區延吉街233巷2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5558121,
+					25.0369116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "和欣視光眼科診所",
+				"ADDR": "106臺北市大安區和平東路3段274號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5557958,
+					25.021068099999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "尹書田醫療財團法人書田泌尿科眼科診所",
+				"ADDR": "106臺北市大安區建國南路二段276號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5372012,
+					25.025245299999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "宇寧身心診所",
+				"ADDR": "106臺北市大安區復興南路二段6號3F"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54328149999999,
+					25.0329698
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設大安門診部",
+				"ADDR": "106臺北市大安區辛亥路三段15號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.544274,
+					25.0215769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院仁愛院區",
+				"ADDR": "106臺北市大安區仁愛路4段10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54522399999999,
+					25.037512
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "中心診所醫療財團法人中心綜合醫院",
+				"ADDR": "106臺北市大安區忠孝東路4段77號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5474838,
+					25.041851599999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "青年診所",
+				"ADDR": "108臺北市萬華區中華路2段424號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5061219,
+					25.0275619
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "漢宗小兒科診所",
+				"ADDR": "108臺北市萬華區中華路二段434號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50649689999999,
+					25.0271178
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "西園醫療社團法人西園醫院",
+				"ADDR": "108臺北市萬華區西園路2段266∼274號、185, 187, 189號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.4945353159755,
+					25.027780239040286
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "瑞生診所",
+				"ADDR": "108臺北市萬華區西園路二段250號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.4948197,
+					25.028043099999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "許孟權小兒科診所",
+				"ADDR": "108臺北市萬華區西藏路107-2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5034524,
+					25.0294985
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設萬華門診部",
+				"ADDR": "108臺北市萬華區東園街152號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.49763689999999,
+					25.0231742
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "佳安診所",
+				"ADDR": "108臺北市萬華區青年路34號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5045323,
+					25.0257006
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "永康診所",
+				"ADDR": "108臺北市萬華區桂林路47號1樓2樓及地下1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50431067669041,
+					25.038044379538768
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "萬華劉小兒科診所",
+				"ADDR": "108臺北市萬華區康定路158號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50177959999999,
+					25.039582
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "國立臺灣大學醫學院附設醫院北護分院",
+				"ADDR": "108臺北市萬華區康定路37號、108臺北市萬華區內江街87號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50262391423892,
+					25.042142403208814
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "益銓診所",
+				"ADDR": "108臺北市萬華區萬大路233號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5007182,
+					25.0264363
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "童錫鈺診所",
+				"ADDR": "108臺北市萬華區萬大路486巷59弄17號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.49565679999999,
+					25.020050599999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "快樂兒童診所",
+				"ADDR": "108臺北市萬華區寶興街121、125、127號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.49485139999999,
+					25.0252083
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "天行健診所",
+				"ADDR": "108臺北市萬華區寶興街127號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.4949207,
+					25.0250766
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "顏克文診所",
+				"ADDR": "108臺北市萬華區貴陽街二段103號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5034749,
+					25.0399317
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院中醫院區",
+				"ADDR": "108臺北市萬華區昆明街100號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5047367,
+					25.044343599999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "董耳鼻喉科診所",
+				"ADDR": "110臺北市信義區永吉路284號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.574376,
+					25.0453719
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "俊安診所",
+				"ADDR": "110臺北市信義區永吉路30巷148弄6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.568451,
+					25.042623199999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "康泰診所",
+				"ADDR": "110臺北市信義區永吉路54號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5695047,
+					25.045524699999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北醫學大學附設醫院",
+				"ADDR": "110臺北市信義區吳興街252號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.563012,
+					25.026955599999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "六安復健科診所",
+				"ADDR": "110臺北市信義區吳興街467巷2弄14-16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5696182,
+					25.0237436
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "總站18號診所",
+				"ADDR": "110臺北市信義區吳興街467巷2弄4、6號B1~1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.568845,
+					25.0241266
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "張育驍診所",
+				"ADDR": "110臺北市信義區吳興街467巷2弄4號, 6號, 6號2樓, 10號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.569452,
+					25.0238199
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "宏安診所",
+				"ADDR": "110臺北市信義區忠孝東路五段191號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56943009999999,
+					25.0412227
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "理恩診所",
+				"ADDR": "110臺北市信義區忠孝東路五段410~2號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.574879,
+					25.0404484
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "新眼光眼科診所",
+				"ADDR": "110臺北市信義區忠孝東路五段518號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.57909699999999,
+					25.041213
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "聯合報系員工診療所",
+				"ADDR": "110臺北市信義區忠孝東路四段559巷1號6樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.563555,
+					25.0420132
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黃啟彰診所",
+				"ADDR": "110臺北市信義區松山路261-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.57801599999999,
+					25.043800899999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陽光耳鼻喉科診所",
+				"ADDR": "110臺北市信義區松山路484之8號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5778237,
+					25.0391159
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "松仁耳鼻喉科診所",
+				"ADDR": "110臺北市信義區松仁路231號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5688038,
+					25.026143599999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "登瑞安診所",
+				"ADDR": "110臺北市信義區林口街232號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.581341,
+					25.0425073
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "王寬仁診所",
+				"ADDR": "110臺北市信義區虎林街121巷11號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5772672,
+					25.0403625
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "信義邱婦產科診所",
+				"ADDR": "110臺北市信義區虎林街198號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5768581,
+					25.0384252
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設信義門診部",
+				"ADDR": "110臺北市信義區信義路5段15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5669236,
+					25.0331899
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "莊敬診所",
+				"ADDR": "110臺北市信義區莊敬路280號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56272399999999,
+					25.0287491
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "長風小兒科診所",
+				"ADDR": "110臺北市信義區莊敬路351號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5645469,
+					25.0279116
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "信義耳鼻喉科診所",
+				"ADDR": "110臺北市信義區莊敬路391巷4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5658266,
+					25.027988099999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "林應然小兒科診所",
+				"ADDR": "110臺北市信義區福德街75號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58114119999999,
+					25.0368568
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "滕起民牙醫診所",
+				"ADDR": "110臺北市信義區信義路4段375號3樓之7"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.557749,
+					25.033263899999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "東群牙醫診所",
+				"ADDR": "110臺北市信義區永吉路511號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.579859,
+					25.045567899999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "明輝診所",
+				"ADDR": "101臺北市信義區松隆路282-3號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.57559499999999,
+					25.0482589
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "頌讚中醫診所",
+				"ADDR": "101臺北市信義區莊敬路325巷4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.563963,
+					25.028178999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院松德院區",
+				"ADDR": "101臺北市信義區松德路309號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.57506079999999,
+					25.030076599999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "鄭光志小兒科診所",
+				"ADDR": "101臺北市信義區松德路23號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5774297,
+					25.039075099999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "原力復健科診所",
+				"ADDR": "101臺北市信義區基隆路二段145號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.555762,
+					25.0269792
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "順康復健科診所",
+				"ADDR": "101臺北市信義區莊敬路362號、364號1.2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5645177,
+					25.0276073
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "保康耳鼻喉科診所",
+				"ADDR": "112臺北市北投區中央北路1段148號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.49871517557578,
+					25.135420755477327
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "永安家庭醫學科診所",
+				"ADDR": "112臺北市北投區中央北路1段172號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.500979,
+					25.129199
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "鄭宇廷耳鼻喉科診所",
+				"ADDR": "112臺北市北投區中央北路1段94號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.49990107048104,
+					25.134636042725912
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "長宏診所",
+				"ADDR": "112臺北市北投區中央北路2段121號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.4944603,
+					25.1371765
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黃浩魁小兒科診所",
+				"ADDR": "112臺北市北投區中央北路一段168號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.498289,
+					25.1356829
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳獻明小兒科診所",
+				"ADDR": "112臺北市北投區中央南路1段69號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.501356,
+					25.131439
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "祐民聯合診所",
+				"ADDR": "112臺北市北投區中央南路一段207號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5013486,
+					25.1283396
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "清田婦產科家醫科診所",
+				"ADDR": "112臺北市北投區中和街268號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50067899999999,
+					25.1401886
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "蔡秉勳小兒科診所",
+				"ADDR": "112臺北市北投區中和街281號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.500361,
+					25.140278
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "石牌實和復健診所",
+				"ADDR": "112臺北市北投區文林北路262號、256號2樓、258號2樓、"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5134468706903,
+					25.109029755728915
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "旭康復健科診所",
+				"ADDR": "112臺北市北投區石牌路1段40號（實際使用：1、2、3樓）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5105709991715,
+					25.113009526184083
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "台北欣安耳鼻喉科診所",
+				"ADDR": "112臺北市北投區石牌路一段152號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5131469,
+					25.1142258
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "京品牙醫診所",
+				"ADDR": "112臺北市北投區石牌路一段34號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51023119999999,
+					25.1128969
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "李伯匯小兒科診所",
+				"ADDR": "112臺北市北投區石牌路一段93號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.511753,
+					25.1139841
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "昱德聯合診所",
+				"ADDR": "112臺北市北投區光明路102號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5012216,
+					25.133059199999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "張參雄診所",
+				"ADDR": "112臺北市北投區光明路166號-1號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50266550025232,
+					25.135008701449706
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "王永良診所",
+				"ADDR": "112臺北市北投區自強街94號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5149749,
+					25.1106211
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黃正宏診所",
+				"ADDR": "112臺北市北投區西安街一段359號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5153328,
+					25.1142483
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳信方小兒科診所",
+				"ADDR": "112臺北市北投區明德路106號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51972909999999,
+					25.109730199999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳柏宏親子診所",
+				"ADDR": "112臺北市北投區明德路124號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5204545,
+					25.110072
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立關渡醫院-委託臺北榮民總醫院經營",
+				"ADDR": "112臺北市北投區知行路225巷12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.4661369,
+					25.120357799999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "宏恩兒科診所",
+				"ADDR": "112臺北市北投區致遠一路二段99號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5129465,
+					25.112895599999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "振興醫療財團法人振興醫院",
+				"ADDR": "112臺北市北投區振興街45號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5225928,
+					25.1173845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "三軍總醫院北投分院附設民眾診療服務處",
+				"ADDR": "112臺北市北投區新民路60號, 中和街250號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50123102780113,
+					25.139762331187953
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "何叔芳小兒科診所",
+				"ADDR": "112臺北市北投區裕民四路4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51576019999999,
+					25.115451699999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳珀勳診所",
+				"ADDR": "112臺北市北投區明德路85號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51869529999999,
+					25.1089257
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "文遠診所",
+				"ADDR": "112臺北市北投區石牌路二段346號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5248852,
+					25.1229715
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北榮民總醫院",
+				"ADDR": "112臺北市北投區石牌路二段201號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51760619999999,
+					25.1195599
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院陽明院區北投門診部",
+				"ADDR": "112臺北市北投區新市街30號5樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50292879999999,
+					25.1323774
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "林文正耳鼻喉科診所",
+				"ADDR": "112臺北市北投區明德路117號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.51987369999999,
+					25.1099653
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "慈恩耳鼻喉科診所",
+				"ADDR": "112臺北市北投區中央南路一段13號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.50156419999999,
+					25.1328699
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "和悅經典中醫診所",
+				"ADDR": "112臺北市北投區光明路二巷9之5號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.4994802,
+					25.1315983
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "明月牙醫診所",
+				"ADDR": "112臺北市北投區大興街25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.4986326,
+					25.1300937
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "仁弘耳鼻喉科診所",
+				"ADDR": "114臺北市內湖區內湖路1段737巷50弄37號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.57857419999999,
+					25.0807227
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "中國醫藥大學附設醫院臺北分院",
+				"ADDR": "114臺北市內湖區內湖路2段360號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5907328,
+					25.082145999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "育睿診所",
+				"ADDR": "114臺北市內湖區內湖路一段217巷35號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56524719999999,
+					25.083751799999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "魏穀年診所",
+				"ADDR": "114臺北市內湖區內湖路一段403號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5705491,
+					25.081857199999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "敏聖內兒科診所",
+				"ADDR": "114臺北市內湖區內湖路一段737巷27號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5787503,
+					25.079552399999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "焉醫師診所",
+				"ADDR": "114臺北市內湖區內湖路二段21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.57953619999999,
+					25.0788595
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "立安診所",
+				"ADDR": "114臺北市內湖區內湖路二段365號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5922959,
+					25.0838401
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "適康復健科診所",
+				"ADDR": "114臺北市內湖區文德路141號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5842986,
+					25.0787692
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "思維診所",
+				"ADDR": "114臺北市內湖區文德路25號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5805874,
+					25.0786645
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "文德耳鼻喉科診所",
+				"ADDR": "114臺北市內湖區文德路32號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5799443,
+					25.078256099999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "林登山耳鼻喉科診所",
+				"ADDR": "114臺北市內湖區文德路96號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58258479999999,
+					25.0783049
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "禾馨民權婦幼診所",
+				"ADDR": "114臺北市內湖區民權東路6段42號2-4樓之1之2之3 "
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58167387636408,
+					25.067491348286364
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "禾馨內湖婦幼診所",
+				"ADDR": "114臺北市內湖區民權東路6段42號5樓(之1、之2、之3）"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58167387636408,
+					25.067491348286364
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "三軍總醫院附設民眾診療服務處",
+				"ADDR": "114臺北市內湖區成功路2段325號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5910904,
+					25.0728868
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "康寧醫療財團法人康寧醫院",
+				"ADDR": "114臺北市內湖區成功路5段420巷26號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.6089476,
+					25.0758907
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "成功復健科診所",
+				"ADDR": "114臺北市內湖區成功路四段12號2-4樓, 16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.59020999957566,
+					25.080503955565664
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "成功耳鼻喉科診所",
+				"ADDR": "114臺北市內湖區成功路四段16號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5911302,
+					25.0812278
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "湖欣診所",
+				"ADDR": "114臺北市內湖區成功路四段327號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.59904069999999,
+					25.0844754
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "大湖診所",
+				"ADDR": "114臺北市內湖區成功路四段366號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.6004134,
+					25.084838599999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "馬思特診所",
+				"ADDR": "114臺北市內湖區成功路四段53號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.59213949999999,
+					25.0816365
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "林孟勳診所",
+				"ADDR": "114臺北市內湖區成功路四段61巷32弄2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5933398,
+					25.0810097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "薈安診所",
+				"ADDR": "114臺北市內湖區江南街6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.578317,
+					25.0782611
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "小禾馨民權小兒專科診所",
+				"ADDR": "114臺北市內湖區行忠路191號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58178249999999,
+					25.0674958
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "品牙醫診所",
+				"ADDR": "114臺北市內湖區成功路四段175號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.59471819999999,
+					25.0836816
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "藍曾小兒科診所",
+				"ADDR": "114臺北市內湖區東湖路132號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.616659,
+					25.067991199999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "謝小兒科診所",
+				"ADDR": "114臺北市內湖區東湖路147號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.6172215,
+					25.0681719
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "東湖內兒科診所",
+				"ADDR": "114臺北市內湖區東湖路4號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.612386,
+					25.068693399999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "東湖張耳鼻喉科診所",
+				"ADDR": "114臺北市內湖區康寧路三段169號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.61167259999999,
+					25.0703043
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "魏之明小兒科診所",
+				"ADDR": "114臺北市內湖區康寧路三段54之6號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.60976339999999,
+					25.0712919
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "林永正診所",
+				"ADDR": "114臺北市內湖區康樂街130號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.61910839999999,
+					25.0716923
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "康樂診所",
+				"ADDR": "114臺北市內湖區康樂街80, 82, 84號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.6188382,
+					25.0702198
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "王慶森診所",
+				"ADDR": "114臺北市內湖區港墘路65號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5783214,
+					25.0811815
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "國泰醫療財團法人內湖國泰診所",
+				"ADDR": "114臺北市內湖區瑞光路506號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5677381,
+					25.0793209
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳森豊診所",
+				"ADDR": "114臺北市內湖區環山路1段2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5654352,
+					25.0828024
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "元康牙醫診所",
+				"ADDR": "114臺北市內湖區康寧路三段165巷23弄3號1F"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.61214969999999,
+					25.0715351
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "康研診所",
+				"ADDR": "114臺北市內湖區堤頂大道二段409號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5631071,
+					25.0806182
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "內湖長春診所",
+				"ADDR": "114臺北市內湖區民權東路六段64號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58492419999999,
+					25.068642399999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設內湖門診部",
+				"ADDR": "114臺北市內湖區民權東路六段99號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58899509999999,
+					25.0693633
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "劉淦華診所",
+				"ADDR": "114臺北市內湖區金龍路43號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5938903,
+					25.0849314
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "陳志鑫診所",
+				"ADDR": "115臺北市南港區八德路四段812號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.581555,
+					25.0509295
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "中坡耳鼻喉科診所",
+				"ADDR": "115臺北市南港區中坡南路29號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5833148,
+					25.0433189
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "義仁兒科診所",
+				"ADDR": "115臺北市南港區玉成街138號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58320479999999,
+					25.0450034
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "義仁家庭醫學診所",
+				"ADDR": "115臺北市南港區玉成街138號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58320479999999,
+					25.0450034
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "蔣小兒科診所",
+				"ADDR": "115臺北市南港區玉成街166巷30號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.583328,
+					25.0439346
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "天仁小兒科診所",
+				"ADDR": "115臺北市南港區成福路21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58672929999999,
+					25.044816299999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "天仁健康診所",
+				"ADDR": "115臺北市南港區成福路21號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58672929999999,
+					25.044816299999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "友力耳鼻喉科診所",
+				"ADDR": "115臺北市南港區忠孝東路5段970號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.582314,
+					25.044262999999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "希文耳鼻喉科診所",
+				"ADDR": "115臺北市南港區忠孝東路六段234號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58774799999999,
+					25.048731999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設南港門診部",
+				"ADDR": "115臺北市南港區南港路1段360號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.6068622,
+					25.0545735
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "冠德耳鼻喉科診所",
+				"ADDR": "115臺北市南港區研究院路1段17號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.616642,
+					25.054069
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "李文珍小兒科診所",
+				"ADDR": "115臺北市南港區研究院路二段74號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.6151031,
+					25.0455491
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "永育診所",
+				"ADDR": "115臺北市南港區福德街320之2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58784019999999,
+					25.0394744
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院忠孝院區",
+				"ADDR": "115臺北市南港區同德路87號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.58618639999999,
+					25.0467031
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "松展診所",
+				"ADDR": "115臺北市南港區忠孝東路六段110巷18號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5850593,
+					25.0467205
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "泓仁診所",
+				"ADDR": "116臺北市文山區木新路2段273號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56610859999999,
+					24.9829018
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "大豐耳鼻喉科診所",
+				"ADDR": "116臺北市文山區木新路3段220號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5594179,
+					24.9815282
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "房國堂小兒專科診所",
+				"ADDR": "116臺北市文山區木新路二段269號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56621899999999,
+					24.982938599999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "世誠耳鼻喉科診所",
+				"ADDR": "116臺北市文山區忠順街一段107號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55941639999999,
+					24.984261
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "許至文耳鼻喉科診所",
+				"ADDR": "116臺北市文山區指南路1段2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5687753429005,
+					24.987572757165
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立聯合醫院附設政大門診部",
+				"ADDR": "116臺北市文山區指南路2段117號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5765284,
+					24.987627999999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "震杰小兒科診所",
+				"ADDR": "116臺北市文山區景興路129號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5449063,
+					24.994428199999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "黃偉志小兒科診所",
+				"ADDR": "116臺北市文山區萬慶街12號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.540116,
+					24.992395899999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "臺北市立萬芳醫院－委託財團法人臺北醫學大學辦理",
+				"ADDR": "116臺北市文山區興隆路3段111號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55814,
+					24.999900999999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "洪佑承小兒專科診所",
+				"ADDR": "116臺北市文山區興隆路4段64之2號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56134449999999,
+					24.9850378
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "興隆李內兒科診所",
+				"ADDR": "116臺北市文山區興隆路一段12號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5393423,
+					25.0041658
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "興隆內科小兒科診所",
+				"ADDR": "116臺北市文山區興隆路二段17號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.545417,
+					24.998909899999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "屈銘軒小兒科診所",
+				"ADDR": "116臺北市文山區興隆路二段301巷4-2號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5535166,
+					25.0017769
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "林建輝小兒科診所",
+				"ADDR": "116臺北市文山區興隆路二段70號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54797079999999,
+					24.999706399999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "景升診所",
+				"ADDR": "116臺北市文山區興隆路二段93-1號1樓及B1, 95巷1號2樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.54699042487368,
+					24.99942303281732
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "葉洪小兒科診所",
+				"ADDR": "116臺北市文山區興隆路三段202號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5590435,
+					24.997704799999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "德安小兒科診所",
+				"ADDR": "116臺北市文山區興隆路四段6-10號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.55975959999999,
+					24.990059799999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "徐慧玲診所",
+				"ADDR": "116臺北市文山區興隆路四段99號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.56054069999999,
+					24.988276199999998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "景美醫院",
+				"ADDR": "116臺北市文山區羅斯福路6段280號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.53988129999999,
+					24.991197999999997
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "澤文診所",
+				"ADDR": "116臺北市文山區興隆路四段133號1樓"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.5615454,
+					24.9853411
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"CLINIC_NAME": "長庚醫療財團法人林口長庚紀念醫院",
+				"ADDR": "333桃園市龜山區公西里復興街5號、5之7號、文化一路15號"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					121.36794422781637,
+					25.061021576626175
+				]
+			}
+		}
+	]
+}
