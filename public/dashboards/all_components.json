@@ -4260,7 +4260,7 @@
 				}, {
 					"index" : "room_avx",
 					"type": "new",
-					"plotColor" : [ "#FF0000", "#FF0000" ]
+					"plotColor" : [ "#fe0026", "#fe0026" ]
 				}
 			],
 			"chart_config": {
