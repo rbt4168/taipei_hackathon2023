@@ -4464,9 +4464,7 @@
 			"short_desc": "疊圖 Demo",
 			"long_desc": "疊圖 Demo",
 			"use_case": "疊圖 Demo",
-			"links": [
-				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
-			],
+			"links": null,
 			"tags": [],
 			"contributors": ["tuic"]
 		}
