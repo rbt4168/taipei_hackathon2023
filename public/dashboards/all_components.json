@@ -4411,11 +4411,27 @@
 					"index" : "all_avx",
 					"type": "new",
 					"plotColor" : [ "#00FF00", "#00FF00" ]
+				},{
+					"index" : "all_school_avx",
+					"type": "new",
+					"plotColor" : [ "#FF0000", "#FF0000" ]
+				},{
+					"index" : "all_room_avx",
+					"type": "new",
+					"plotColor" : [ "#0000FF", "#0000FF" ]
+				},{
+					"index" : "all_clinic_avx",
+					"type": "new",
+					"plotColor" : [ "#FF00FF", "#FF00FF" ]
+				},{
+					"index" : "all_park_avx",
+					"type": "new",
+					"plotColor" : [ "#00FFFF", "#00FFFF" ]
 				}
 			],
 			"chart_config": {
-				"types": [],
-				"color": ["#FFE677"],
+				"types": [ "BarChart" ],
+				"color": [ "#00FF00" , "#FF0000", "#0000FF", "#FF00FF", "#00FFFF" ],
 				"unit": "座"
 			},
 			"name": "疊圖 Demo",
