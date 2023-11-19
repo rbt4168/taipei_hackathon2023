@@ -4366,11 +4366,12 @@
 					
 					"property": [
 						{
-							"key": "公園",
-							"name": "公園"
-						},{
+							"key": "name",
+							"name": "名稱"
+						},
+						{
 							"key": "overview",
-							"name": "簡介"
+							"name": "介紹"
 						}
 					],
 					"type": "symbol",
@@ -4397,7 +4398,7 @@
 			"long_desc": "顯示全市路燈的數量和點位，資料來源為台北市工務局，不定期更新。",
 			"use_case": "顯示工務局路燈處掌握的公有路燈資訊，對於了解台北市路燈數量與點位情況提供了重要參考，但不包含私人設立的路燈或夜間照明。",
 			"links": [
-				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
+				"https://data.taipei/dataset/detail?id=ea732fb5-4bec-4be7-93f2-8ab91e74a6c6"
 			],
 			"tags": [],
 			"contributors": ["tuic"]
