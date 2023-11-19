@@ -4374,7 +4374,7 @@
 					"icon": "park",
 					"title": "公園"
 				}, {
-					"index" : "tree_avx",
+					"index" : "park_avx",
 					"type": "new",
 					"plotColor" : [ "#FFE677", "#FFE677" ]
 				}
@@ -4393,6 +4393,36 @@
 			"short_desc": "顯示全市路燈的數量和點位",
 			"long_desc": "顯示全市路燈的數量和點位，資料來源為台北市工務局，不定期更新。",
 			"use_case": "顯示工務局路燈處掌握的公有路燈資訊，對於了解台北市路燈數量與點位情況提供了重要參考，但不包含私人設立的路燈或夜間照明。",
+			"links": [
+				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
+			],
+			"tags": [],
+			"contributors": ["tuic"]
+		},
+		"1100": {
+			"id": 1100,
+			"index": "test",
+			"map_config": [
+				{
+					"index" : "all_avx",
+					"type": "new",
+					"plotColor" : [ "#00FF00", "#00FF00" ]
+				}
+			],
+			"chart_config": {
+				"types": [],
+				"color": ["#FFE677"],
+				"unit": "座"
+			},
+			"name": "疊圖 Demo",
+			"source": "data.taipei",
+			"time_from": null,
+			"time_to": null,
+			"update_freq": null,
+			"update_freq_unit": null,
+			"short_desc": "疊圖 Demo",
+			"long_desc": "疊圖 Demo",
+			"use_case": "疊圖 Demo",
 			"links": [
 				"https://data.taipei/dataset/detail?id=262e80cf-579c-4bfb-ba73-31621bc84616"
 			],

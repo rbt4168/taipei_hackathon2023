@@ -21,7 +21,9 @@ function handleSubmitNewLocation() {
 
 onMounted(() => {
 	mapStore.initializeMapBox();
+	// setInterval(()=>{mapStore.easeToLocation([[121.536609, 25.044808], 12.5, 0, 0])}, 1000)
 });
+
 </script>
 
 <template>

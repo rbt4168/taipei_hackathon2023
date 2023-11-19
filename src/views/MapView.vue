@@ -34,6 +34,7 @@ const parseMapLayers = computed(() => {
 
 	return { hasMap: hasMap, noMap: noMap };
 });
+
 </script>
 
 <template>
