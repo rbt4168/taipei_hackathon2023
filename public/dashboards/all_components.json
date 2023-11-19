@@ -4366,8 +4366,12 @@
 					
 					"property": [
 						{
-							"key": "公園",
-							"name": "公園"
+							"key": "name",
+							"name": "名稱"
+						},
+						{
+							"key": "overview",
+							"name": "介紹"
 						}
 					],
 					"type": "symbol",
