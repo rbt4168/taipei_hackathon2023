@@ -336,7 +336,7 @@ export const useMapStore = defineStore("map", {
 		AddNewMapLayer(map_config, data) {
 			const authStore = useAuthStore();
 			const lines = [...JSON.parse(JSON.stringify(data.features))];
-			console.log(lines);
+			// console.log(lines);
 			this.loadingLayers.push("rendering");
 
 			const tb = (window.tb = new Threebox(
